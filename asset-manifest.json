@@ -1,0 +1,13 @@
+{
+  "main.css": "/weather/static/css/main.82bfb3aa.chunk.css",
+  "main.js": "/weather/static/js/main.f1491391.chunk.js",
+  "main.js.map": "/weather/static/js/main.f1491391.chunk.js.map",
+  "static/js/1.237fbed2.chunk.js": "/weather/static/js/1.237fbed2.chunk.js",
+  "static/js/1.237fbed2.chunk.js.map": "/weather/static/js/1.237fbed2.chunk.js.map",
+  "runtime~main.js": "/weather/static/js/runtime~main.177e1b72.js",
+  "runtime~main.js.map": "/weather/static/js/runtime~main.177e1b72.js.map",
+  "static/css/main.82bfb3aa.chunk.css.map": "/weather/static/css/main.82bfb3aa.chunk.css.map",
+  "index.html": "/weather/index.html",
+  "precache-manifest.51f996056859cfc8071a78ff590fc2d6.js": "/weather/precache-manifest.51f996056859cfc8071a78ff590fc2d6.js",
+  "service-worker.js": "/weather/service-worker.js"
+}
