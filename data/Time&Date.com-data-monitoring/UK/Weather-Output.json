@@ -1,0 +1,730 @@
+[
+  {
+    "location": {
+      "City": "Peterborough",
+      "Longitude": "52.573921",
+      "Latitude": "-0.250830"
+    },
+    "weather": [
+      {
+        "city": "Peterborough",
+        "dateTime": "2018-10-6 14:05:07",
+        "temperatureC": 8,
+        "feelsLikeC": 4,
+        "description": "Rain. Partly sunny.",
+        "pressureMBAR": 1012,
+        "humidityPercent": null,
+        "windKmh": 26,
+        "latestReport": "6 okt 2018 12:50"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "52.5739",
+      "metNoLat": "-0.2508",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Stoke-on-Trent",
+      "Longitude": "53.002666",
+      "Latitude": "-2.179404"
+    },
+    "weather": [
+      {
+        "city": "Stoke-on-Trent",
+        "dateTime": "2018-10-6 14:05:16",
+        "temperatureC": 10,
+        "feelsLikeC": 8,
+        "description": "Partly sunny.",
+        "pressureMBAR": 1015,
+        "humidityPercent": 76,
+        "windKmh": 15,
+        "latestReport": "6 okt 2018 13:20"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "53.0027",
+      "metNoLat": "-2.1794",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Solihull",
+      "Longitude": "52.412811",
+      "Latitude": "-1.778197"
+    },
+    "weather": [
+      {
+        "city": "Solihull",
+        "dateTime": "2018-10-6 14:05:19",
+        "temperatureC": 8,
+        "feelsLikeC": 5,
+        "description": "Light rain. Mostly cloudy.",
+        "pressureMBAR": 1013,
+        "humidityPercent": 93,
+        "windKmh": 20,
+        "latestReport": "6 okt 2018 13:20"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "52.4128",
+      "metNoLat": "-1.7782",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Cardiff",
+      "Longitude": "51.481583",
+      "Latitude": "-3.179090"
+    },
+    "weather": [
+      {
+        "city": "Cardiff",
+        "dateTime": "2018-10-6 14:05:21",
+        "temperatureC": 9,
+        "feelsLikeC": 6,
+        "description": "Cool.",
+        "pressureMBAR": 1013,
+        "humidityPercent": 87,
+        "windKmh": 22,
+        "latestReport": "6 okt 2018 13:20"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "51.4816",
+      "metNoLat": "-3.1791",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Eastbourne",
+      "Longitude": "50.768036",
+      "Latitude": "0.290472"
+    },
+    "weather": [
+      {
+        "city": "Eastbourne",
+        "dateTime": "2018-10-6 14:05:24",
+        "temperatureC": 13,
+        "feelsLikeC": 12,
+        "description": "Smoke.",
+        "pressureMBAR": 1009,
+        "humidityPercent": 92,
+        "windKmh": 9,
+        "latestReport": "6 okt 2018 13:00"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "50.7680",
+      "metNoLat": "0.2905",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Oxford",
+      "Longitude": "51.752022",
+      "Latitude": "-1.257677"
+    },
+    "weather": [
+      {
+        "city": "Oxford",
+        "dateTime": "2018-10-6 14:05:27",
+        "temperatureC": 8,
+        "feelsLikeC": 4,
+        "description": "Partly sunny.",
+        "pressureMBAR": 1011,
+        "humidityPercent": 100,
+        "windKmh": 26,
+        "latestReport": "6 okt 2018 12:50"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "51.7520",
+      "metNoLat": "-1.2577",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "London",
+      "Longitude": "51.509865",
+      "Latitude": "-0.118092"
+    },
+    "weather": [
+      {
+        "city": "London",
+        "dateTime": "2018-10-6 14:05:30",
+        "temperatureC": 9,
+        "feelsLikeC": 6,
+        "description": "Rain. Mostly cloudy.",
+        "pressureMBAR": 1010,
+        "humidityPercent": 94,
+        "windKmh": 24,
+        "latestReport": "6 okt 2018 12:50"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "51.5099",
+      "metNoLat": "-0.1181",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Swindon",
+      "Longitude": "51.568535",
+      "Latitude": "-1.772232"
+    },
+    "weather": [
+      {
+        "city": "Swindon",
+        "dateTime": "2018-10-6 14:05:32",
+        "temperatureC": 8,
+        "feelsLikeC": 5,
+        "description": "Drizzle. Broken clouds.",
+        "pressureMBAR": 1012,
+        "humidityPercent": 93,
+        "windKmh": 20,
+        "latestReport": "6 okt 2018 12:50"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "51.5685",
+      "metNoLat": "-1.7722",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Northampton",
+      "Longitude": "52.240479",
+      "Latitude": "-0.902656"
+    },
+    "weather": [
+      {
+        "city": "Northampton",
+        "dateTime": "2018-10-6 14:05:38",
+        "temperatureC": 8,
+        "feelsLikeC": 4,
+        "description": "Drizzle. Partly sunny.",
+        "pressureMBAR": 1011,
+        "humidityPercent": 100,
+        "windKmh": 28,
+        "latestReport": "6 okt 2018 13:20"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "52.2405",
+      "metNoLat": "-0.9026",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Aberdeen",
+      "Longitude": "57.149651",
+      "Latitude": "-2.099075"
+    },
+    "weather": [
+      {
+        "city": "Aberdeen",
+        "dateTime": "2018-10-6 14:05:49",
+        "temperatureC": 11,
+        "feelsLikeC": 8,
+        "description": "Scattered clouds.",
+        "pressureMBAR": 1015,
+        "humidityPercent": 58,
+        "windKmh": 26,
+        "latestReport": "6 okt 2018 13:20"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "57.1497",
+      "metNoLat": "-2.0991",
+      "metNoTempC": 27
+    }
+  },
+  {
+    "location": {
+      "City": "Swansea",
+      "Longitude": "51.621441",
+      "Latitude": "-3.943646"
+    },
+    "weather": [
+      {
+        "city": "Swansea",
+        "dateTime": "2018-10-6 14:05:52",
+        "temperatureC": 11,
+        "feelsLikeC": 7,
+        "description": "Cool.",
+        "pressureMBAR": 1014,
+        "humidityPercent": 74,
+        "windKmh": 32,
+        "latestReport": "6 okt 2018 13:00"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "51.6214",
+      "metNoLat": "-3.9436",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Chesterfield",
+      "Longitude": "53.235046",
+      "Latitude": "-1.421629"
+    },
+    "weather": [
+      {
+        "city": "Chesterfield",
+        "dateTime": "2018-10-6 14:05:55",
+        "temperatureC": 9,
+        "feelsLikeC": 7,
+        "description": "Cool.",
+        "pressureMBAR": 1014,
+        "humidityPercent": 87,
+        "windKmh": 11,
+        "latestReport": "6 okt 2018 13:00"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "53.2350",
+      "metNoLat": "-1.4216",
+      "metNoTempC": 27
+    }
+  },
+  {
+    "location": {
+      "City": "Londonderry",
+      "Longitude": "55.006763",
+      "Latitude": "-7.318268"
+    },
+    "weather": [
+      {
+        "city": "Londonderry",
+        "dateTime": "2018-10-6 14:05:58",
+        "temperatureC": 12,
+        "feelsLikeC": 10,
+        "description": "Scattered showers. Scattered clouds.",
+        "pressureMBAR": 1019,
+        "humidityPercent": 54,
+        "windKmh": 24,
+        "latestReport": "6 okt 2018 13:20"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "55.0068",
+      "metNoLat": "-7.3183",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Salisbury",
+      "Longitude": "51.068787",
+      "Latitude": "-1.794472"
+    },
+    "weather": [
+      {
+        "city": "Salisbury",
+        "dateTime": "2018-10-6 14:06:01",
+        "temperatureC": 8,
+        "feelsLikeC": 4,
+        "description": "Rain. Low clouds.",
+        "pressureMBAR": 1011,
+        "humidityPercent": 93,
+        "windKmh": 28,
+        "latestReport": "6 okt 2018 12:50"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "51.0688",
+      "metNoLat": "-1.7945",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Weymouth",
+      "Longitude": "50.614429",
+      "Latitude": "-2.457621"
+    },
+    "weather": [
+      {
+        "city": "Weymouth",
+        "dateTime": "2018-10-6 14:06:04",
+        "temperatureC": 9,
+        "feelsLikeC": 4,
+        "description": "Light rain. Cloudy.",
+        "pressureMBAR": 1009,
+        "humidityPercent": 94,
+        "windKmh": 46,
+        "latestReport": "6 okt 2018 13:00"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "50.6144",
+      "metNoLat": "-2.4576",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Wolverhampton",
+      "Longitude": "52.591370",
+      "Latitude": "-2.110748"
+    },
+    "weather": [
+      {
+        "city": "Wolverhampton",
+        "dateTime": "2018-10-6 14:06:07",
+        "temperatureC": 8,
+        "feelsLikeC": 5,
+        "description": "Light rain. Mostly cloudy.",
+        "pressureMBAR": 1013,
+        "humidityPercent": 93,
+        "windKmh": 20,
+        "latestReport": "6 okt 2018 13:20"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "52.5914",
+      "metNoLat": "-2.1107",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Preston",
+      "Longitude": "53.765762",
+      "Latitude": "-2.692337"
+    },
+    "weather": [
+      {
+        "city": "Preston",
+        "dateTime": "2018-10-6 14:06:10",
+        "temperatureC": 11,
+        "feelsLikeC": 9,
+        "description": "Passing clouds.",
+        "pressureMBAR": 1016,
+        "humidityPercent": 67,
+        "windKmh": 20,
+        "latestReport": "6 okt 2018 13:20"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "53.7658",
+      "metNoLat": "-2.6923",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Bournemouth",
+      "Longitude": "50.720806",
+      "Latitude": "-1.904755"
+    },
+    "weather": [
+      {
+        "city": "Bournemouth",
+        "dateTime": "2018-10-6 14:06:12",
+        "temperatureC": 9,
+        "feelsLikeC": 6,
+        "description": "Rain. Partly sunny.",
+        "pressureMBAR": 1010,
+        "humidityPercent": 94,
+        "windKmh": 22,
+        "latestReport": "6 okt 2018 13:20"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "50.7208",
+      "metNoLat": "-1.9047",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Doncaster",
+      "Longitude": "53.522820",
+      "Latitude": "-1.128462"
+    },
+    "weather": [
+      {
+        "city": "Doncaster",
+        "dateTime": "2018-10-6 14:06:15",
+        "temperatureC": 9,
+        "feelsLikeC": 6,
+        "description": "Scattered clouds.",
+        "pressureMBAR": 1013,
+        "humidityPercent": 94,
+        "windKmh": 20,
+        "latestReport": "6 okt 2018 12:50"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "53.5228",
+      "metNoLat": "-1.1285",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Hastings",
+      "Longitude": "50.854259",
+      "Latitude": "0.573453"
+    },
+    "weather": [
+      {
+        "city": "Hastings",
+        "dateTime": "2018-10-6 14:06:21",
+        "temperatureC": 14,
+        "feelsLikeC": 12,
+        "description": "Partly sunny.",
+        "pressureMBAR": 1008,
+        "humidityPercent": 94,
+        "windKmh": 24,
+        "latestReport": "6 okt 2018 13:20"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "50.8543",
+      "metNoLat": "0.5735",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Basildon",
+      "Longitude": "51.572376",
+      "Latitude": "0.470009"
+    },
+    "weather": [
+      {
+        "city": "Basildon",
+        "dateTime": "2018-10-6 14:06:27",
+        "temperatureC": 12,
+        "feelsLikeC": 10,
+        "description": "Partly sunny.",
+        "pressureMBAR": 1009,
+        "humidityPercent": 88,
+        "windKmh": 22,
+        "latestReport": "6 okt 2018 13:20"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "51.5724",
+      "metNoLat": "0.4700",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Belfast",
+      "Longitude": "54.607868",
+      "Latitude": "-5.926437"
+    },
+    "weather": [
+      {
+        "city": "Belfast",
+        "dateTime": "2018-10-6 14:06:32",
+        "temperatureC": 12,
+        "feelsLikeC": 10,
+        "description": "Scattered clouds.",
+        "pressureMBAR": 1018,
+        "humidityPercent": 54,
+        "windKmh": 19,
+        "latestReport": "6 okt 2018 13:20"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "54.6079",
+      "metNoLat": "-5.9264",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Uckfield",
+      "Longitude": "50.967941",
+      "Latitude": "0.085831"
+    },
+    "weather": [
+      {
+        "city": "Uckfield",
+        "dateTime": "2018-10-6 14:06:35",
+        "temperatureC": 11,
+        "feelsLikeC": 9,
+        "description": "Rain. Low clouds.",
+        "pressureMBAR": 1009,
+        "humidityPercent": 94,
+        "windKmh": 15,
+        "latestReport": "6 okt 2018 13:20"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "50.9679",
+      "metNoLat": "0.0858",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Worthing",
+      "Longitude": "50.825024",
+      "Latitude": "-0.383835"
+    },
+    "weather": [
+      {
+        "city": "Worthing",
+        "dateTime": "2018-10-6 14:06:38",
+        "temperatureC": 11,
+        "feelsLikeC": 8,
+        "description": "Light rain. Broken clouds.",
+        "pressureMBAR": 1008,
+        "humidityPercent": 94,
+        "windKmh": 24,
+        "latestReport": "6 okt 2018 13:20"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "50.8250",
+      "metNoLat": "-0.3838",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Leeds",
+      "Longitude": "53.801277",
+      "Latitude": "-1.548567"
+    },
+    "weather": [
+      {
+        "city": "Leeds",
+        "dateTime": "2018-10-6 14:06:40",
+        "temperatureC": 9,
+        "feelsLikeC": 6,
+        "description": "Scattered clouds.",
+        "pressureMBAR": 1014,
+        "humidityPercent": 76,
+        "windKmh": 17,
+        "latestReport": "6 okt 2018 13:20"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "53.8013",
+      "metNoLat": "-1.5486",
+      "metNoTempC": 27
+    }
+  },
+  {
+    "location": {
+      "City": "Kendal",
+      "Longitude": "54.328506",
+      "Latitude": "-2.743870"
+    },
+    "weather": [
+      {
+        "city": "Kendal",
+        "dateTime": "2018-10-6 14:06:43",
+        "temperatureC": 8,
+        "feelsLikeC": 6,
+        "description": "Cool.",
+        "pressureMBAR": 1016,
+        "humidityPercent": 68,
+        "windKmh": 19,
+        "latestReport": "6 okt 2018 13:00"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "54.3285",
+      "metNoLat": "-2.7439",
+      "metNoTempC": 26
+    }
+  },
+  {
+    "location": {
+      "City": "Plymouth",
+      "Longitude": "50.376289",
+      "Latitude": "-4.143841"
+    },
+    "weather": [
+      {
+        "city": "Plymouth",
+        "dateTime": "2018-10-6 14:06:48",
+        "temperatureC": 9,
+        "feelsLikeC": 6,
+        "description": "Broken clouds.",
+        "pressureMBAR": 1011,
+        "humidityPercent": 87,
+        "windKmh": 26,
+        "latestReport": "6 okt 2018 13:20"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "50.3763",
+      "metNoLat": "-4.1438",
+      "metNoTempC": 25
+    }
+  },
+  {
+    "location": {
+      "City": "Inverness",
+      "Longitude": "57.477772",
+      "Latitude": "-4.224721"
+    },
+    "weather": [
+      {
+        "city": "Inverness",
+        "dateTime": "2018-10-6 14:06:57",
+        "temperatureC": 11,
+        "feelsLikeC": 9,
+        "description": "Scattered showers. Scattered clouds.",
+        "pressureMBAR": 1016,
+        "humidityPercent": 67,
+        "windKmh": 15,
+        "latestReport": "6 okt 2018 13:20"
+      }
+    ],
+    "metNoAPIData": {
+      "metNoDate": "2018-10-06T13:00:00Z",
+      "metNoLong": "57.4778",
+      "metNoLat": "-4.2247",
+      "metNoTempC": 26
+    }
+  }
+]

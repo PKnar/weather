@@ -1,0 +1,14 @@
+{
+  "timeStampRun": 1538830683,
+  "forecastDate": "2018-10-6 13:55:05",
+  "longLatApi": "https://www.latlong.net/category/cities-235-15.html",
+  "weatherApi": "https://www.timeanddate.com/weather/uk/name of city",
+  "metNoAPI": "https://api.met.no",
+  "countOfCities": 28,
+  "countOfItems": 28,
+  "sumOfTemp": 275,
+  "sumOfWind": 621,
+  "sumOfPressure": 28348,
+  "latestReport": "6 okt 2018 12:50",
+  "temperatureDifference": 455
+}
