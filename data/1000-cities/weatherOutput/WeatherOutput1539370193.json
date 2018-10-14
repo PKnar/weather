@@ -1,0 +1,2270 @@
+[
+  {
+    "location": {
+      "longitude": 121.4581,
+      "latitude": 31.2222,
+      "altitude": 12,
+      "city": "Shanghai"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=31.22222&lon=121.45806&msl=12",
+        "geohash3": "uxy",
+        "geohash5": "uxypy",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 12.8,
+        "dewpointTemperatureC": 10.3,
+        "symbol": "Sun",
+        "humidityPercent": 84.2,
+        "pressureHpa": 1024.4,
+        "windDirectionDeg": 13.2,
+        "windSpeedMps": 3,
+        "cloudinessPercent": 0.8,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 0.8,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": -58.3772,
+      "latitude": -34.6132,
+      "altitude": 31,
+      "city": "Buenos Aires"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=-34.61315&lon=-58.37723&msl=31",
+        "geohash3": "5jx",
+        "geohash5": "5jx7u",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 17.3,
+        "dewpointTemperatureC": 9.4,
+        "symbol": "Cloud",
+        "humidityPercent": 59.4,
+        "pressureHpa": 1015.9,
+        "windDirectionDeg": 135.6,
+        "windSpeedMps": 4.4,
+        "cloudinessPercent": 94.5,
+        "lowCloudsPercent": 93.8,
+        "mediumCloudsPercent": 0.8,
+        "highCloudsPercent": 5.5,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 72.8826,
+      "latitude": 19.0728,
+      "altitude": 8,
+      "city": "Mumbai"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=19.07283&lon=72.88261&msl=8",
+        "geohash3": "ukv",
+        "geohash5": "ukvwd",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 28.2,
+        "dewpointTemperatureC": 26.1,
+        "symbol": "PartlyCloud",
+        "humidityPercent": 86.4,
+        "pressureHpa": 1009.4,
+        "windDirectionDeg": 56,
+        "windSpeedMps": 1,
+        "cloudinessPercent": 66.4,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 66.4,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": -99.1277,
+      "latitude": 19.4285,
+      "altitude": 2240,
+      "city": "Mexico City"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=19.42847&lon=-99.12766&msl=2240",
+        "geohash3": "h2j",
+        "geohash5": "h2jb4",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 21.6,
+        "dewpointTemperatureC": 12,
+        "symbol": "LightRainSun",
+        "humidityPercent": 54,
+        "pressureHpa": 1013.5,
+        "windDirectionDeg": 284.4,
+        "windSpeedMps": 0.5,
+        "cloudinessPercent": 65.6,
+        "lowCloudsPercent": 28.9,
+        "mediumCloudsPercent": 32,
+        "highCloudsPercent": 55.5,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 116.3972,
+      "latitude": 39.9075,
+      "altitude": 49,
+      "city": "Beijing"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=39.9075&lon=116.39723&msl=49",
+        "geohash3": "uzu",
+        "geohash5": "uzuru",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 6.9,
+        "dewpointTemperatureC": 0.8,
+        "symbol": "Sun",
+        "humidityPercent": 66,
+        "pressureHpa": 1024.7,
+        "windDirectionDeg": 13.1,
+        "windSpeedMps": 1.3,
+        "cloudinessPercent": 0,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 0,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 67.0822,
+      "latitude": 24.9056,
+      "altitude": 38,
+      "city": "Karachi"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=24.9056&lon=67.0822&msl=38",
+        "geohash3": "uec",
+        "geohash5": "uectw",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 25.4,
+        "dewpointTemperatureC": 20,
+        "symbol": "Sun",
+        "humidityPercent": 70.9,
+        "pressureHpa": 1011.2,
+        "windDirectionDeg": 329.8,
+        "windSpeedMps": 2.9,
+        "cloudinessPercent": 0,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 0,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 28.9497,
+      "latitude": 41.0138,
+      "altitude": 39,
+      "city": "Istanbul"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=41.01384&lon=28.94966&msl=39",
+        "geohash3": "svj",
+        "geohash5": "svjht",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 18,
+        "dewpointTemperatureC": 16.3,
+        "symbol": "PartlyCloud",
+        "humidityPercent": 88.9,
+        "pressureHpa": 1021.9,
+        "windDirectionDeg": 33.4,
+        "windSpeedMps": 6.1,
+        "cloudinessPercent": 39.1,
+        "lowCloudsPercent": 38.3,
+        "mediumCloudsPercent": 0.8,
+        "highCloudsPercent": 2.3,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 117.1767,
+      "latitude": 39.1422,
+      "altitude": 11,
+      "city": "Tianjin"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=39.14222&lon=117.17667&msl=11",
+        "geohash3": "uzg",
+        "geohash5": "uzgzf",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 10.6,
+        "dewpointTemperatureC": 4.5,
+        "symbol": "LightCloud",
+        "humidityPercent": 66.3,
+        "pressureHpa": 1024.5,
+        "windDirectionDeg": 173.5,
+        "windSpeedMps": 2.7,
+        "cloudinessPercent": 32,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 32,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 113.25,
+      "latitude": 23.1167,
+      "altitude": 15,
+      "city": "Guangzhou"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=23.11667&lon=113.25&msl=15",
+        "geohash3": "uxb",
+        "geohash5": "uxbry",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 20.1,
+        "dewpointTemperatureC": 18.3,
+        "symbol": "PartlyCloud",
+        "humidityPercent": 87.9,
+        "pressureHpa": 1017.7,
+        "windDirectionDeg": 50.9,
+        "windSpeedMps": 1.5,
+        "cloudinessPercent": 58.6,
+        "lowCloudsPercent": 26.6,
+        "mediumCloudsPercent": 3.1,
+        "highCloudsPercent": 44.5,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 77.2315,
+      "latitude": 28.652,
+      "altitude": 227,
+      "city": "Delhi"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=28.65195&lon=77.23149&msl=227",
+        "geohash3": "uts",
+        "geohash5": "utsr7",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 19.3,
+        "dewpointTemperatureC": 18,
+        "symbol": "Sun",
+        "humidityPercent": 91,
+        "pressureHpa": 1012.1,
+        "windDirectionDeg": 353.3,
+        "windSpeedMps": 2.2,
+        "cloudinessPercent": 0,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 0,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 120.9822,
+      "latitude": 14.6042,
+      "altitude": 13,
+      "city": "Manila"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=14.6042&lon=120.9822&msl=13",
+        "geohash3": "urf",
+        "geohash5": "urfru",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 25.4,
+        "dewpointTemperatureC": 24.2,
+        "symbol": "PartlyCloud",
+        "humidityPercent": 90.8,
+        "pressureHpa": 1010.7,
+        "windDirectionDeg": 61.4,
+        "windSpeedMps": 1,
+        "cloudinessPercent": 85.9,
+        "lowCloudsPercent": 1.6,
+        "mediumCloudsPercent": 0.8,
+        "highCloudsPercent": 85.9,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 37.6156,
+      "latitude": 55.7522,
+      "altitude": 147,
+      "city": "Moscow"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=55.75222&lon=37.61556&msl=147",
+        "geohash3": "tnx",
+        "geohash5": "tnxtu",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 8.5,
+        "dewpointTemperatureC": 7,
+        "symbol": "Sun",
+        "humidityPercent": 90.9,
+        "pressureHpa": 1030.8,
+        "windDirectionDeg": 283.4,
+        "windSpeedMps": 4,
+        "cloudinessPercent": 1.6,
+        "lowCloudsPercent": 1.6,
+        "mediumCloudsPercent": 0,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 114.0683,
+      "latitude": 22.5455,
+      "altitude": 4,
+      "city": "Shenzhen"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=22.54554&lon=114.0683&msl=4",
+        "geohash3": "uxb",
+        "geohash5": "uxbpc",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 21.2,
+        "dewpointTemperatureC": 18.2,
+        "symbol": "PartlyCloud",
+        "humidityPercent": 81.9,
+        "pressureHpa": 1017.5,
+        "windDirectionDeg": 79,
+        "windSpeedMps": 2.6,
+        "cloudinessPercent": 61.7,
+        "lowCloudsPercent": 1.6,
+        "mediumCloudsPercent": 0,
+        "highCloudsPercent": 60.9,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 90.4074,
+      "latitude": 23.7104,
+      "altitude": 23,
+      "city": "Dhaka"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=23.7104&lon=90.40744&msl=23",
+        "geohash3": "uxb",
+        "geohash5": "uxbzg",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 23.9,
+        "dewpointTemperatureC": 23.8,
+        "symbol": "LightRain",
+        "humidityPercent": 97.2,
+        "pressureHpa": 1011,
+        "windDirectionDeg": 109.4,
+        "windSpeedMps": 1.5,
+        "cloudinessPercent": 100,
+        "lowCloudsPercent": 12.5,
+        "mediumCloudsPercent": 100,
+        "highCloudsPercent": 100,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 126.9784,
+      "latitude": 37.566,
+      "altitude": 38,
+      "city": "Seoul"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=37.566&lon=126.9784&msl=38",
+        "geohash3": "uzf",
+        "geohash5": "uzfxy",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 5.2,
+        "dewpointTemperatureC": 2.5,
+        "symbol": "Sun",
+        "humidityPercent": 83.2,
+        "pressureHpa": 1027.1,
+        "windDirectionDeg": 65.5,
+        "windSpeedMps": 1.6,
+        "cloudinessPercent": 0,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 0,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": -46.6361,
+      "latitude": -23.5475,
+      "altitude": 769,
+      "city": "Sao Paulo"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=-23.5475&lon=-46.63611&msl=769",
+        "geohash3": "5rx",
+        "geohash5": "5rxq8",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 23.1,
+        "dewpointTemperatureC": 19.6,
+        "symbol": "DrizzleSun",
+        "humidityPercent": 79.6,
+        "pressureHpa": 1013.9,
+        "windDirectionDeg": 148,
+        "windSpeedMps": 3.3,
+        "cloudinessPercent": 74.2,
+        "lowCloudsPercent": 41.4,
+        "mediumCloudsPercent": 15.6,
+        "highCloudsPercent": 50,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 114.2667,
+      "latitude": 30.5833,
+      "altitude": 20,
+      "city": "Wuhan"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=30.58333&lon=114.26667&msl=20",
+        "geohash3": "uxv",
+        "geohash5": "uxvxz",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 13.9,
+        "dewpointTemperatureC": 7.2,
+        "symbol": "PartlyCloud",
+        "humidityPercent": 64,
+        "pressureHpa": 1022.5,
+        "windDirectionDeg": 95.2,
+        "windSpeedMps": 2.3,
+        "cloudinessPercent": 82,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 0,
+        "highCloudsPercent": 82,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 3.3947,
+      "latitude": 6.4541,
+      "altitude": 11,
+      "city": "Lagos"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=6.45407&lon=3.39467&msl=11",
+        "geohash3": "s0s",
+        "geohash5": "s0se6",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 25.3,
+        "dewpointTemperatureC": 23.6,
+        "symbol": "Cloud",
+        "humidityPercent": 88.6,
+        "pressureHpa": 1013,
+        "windDirectionDeg": 215.6,
+        "windSpeedMps": 1.3,
+        "cloudinessPercent": 100,
+        "lowCloudsPercent": 8.6,
+        "mediumCloudsPercent": 14.1,
+        "highCloudsPercent": 99.2,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 106.8451,
+      "latitude": -6.2146,
+      "altitude": 16,
+      "city": "Jakarta"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=-6.21462&lon=106.84513&msl=16",
+        "geohash3": "gzg",
+        "geohash5": "gzgxf",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 25.1,
+        "dewpointTemperatureC": 23.1,
+        "symbol": "Cloud",
+        "humidityPercent": 86.9,
+        "pressureHpa": 1011.7,
+        "windDirectionDeg": 242,
+        "windSpeedMps": 1.9,
+        "cloudinessPercent": 100,
+        "lowCloudsPercent": 13.3,
+        "mediumCloudsPercent": 32,
+        "highCloudsPercent": 100,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 139.6917,
+      "latitude": 35.6895,
+      "altitude": 43,
+      "city": "Tokyo"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=35.6895&lon=139.69171&msl=43",
+        "geohash3": "uzc",
+        "geohash5": "uzcru",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 15.6,
+        "dewpointTemperatureC": 11.8,
+        "symbol": "Cloud",
+        "humidityPercent": 77.3,
+        "pressureHpa": 1023.2,
+        "windDirectionDeg": 31.7,
+        "windSpeedMps": 1.8,
+        "cloudinessPercent": 100,
+        "lowCloudsPercent": 82.8,
+        "mediumCloudsPercent": 95.3,
+        "highCloudsPercent": 96.9,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": -74.006,
+      "latitude": 40.7143,
+      "altitude": 9,
+      "city": "New York City"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=40.71427&lon=-74.00597&msl=9",
+        "geohash3": "hfu",
+        "geohash5": "hfufy",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 16.3,
+        "dewpointTemperatureC": 5,
+        "symbol": "Sun",
+        "humidityPercent": 47.2,
+        "pressureHpa": 1004.4,
+        "windDirectionDeg": 311.4,
+        "windSpeedMps": 7.4,
+        "cloudinessPercent": 0,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 0,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 113.7447,
+      "latitude": 23.0489,
+      "altitude": 10,
+      "city": "Dongguan"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=23.04889&lon=113.74472&msl=10",
+        "geohash3": "uxb",
+        "geohash5": "uxbru",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 19.8,
+        "dewpointTemperatureC": 18.8,
+        "symbol": "PartlyCloud",
+        "humidityPercent": 92.5,
+        "pressureHpa": 1017.6,
+        "windDirectionDeg": 89.6,
+        "windSpeedMps": 1.3,
+        "cloudinessPercent": 78.1,
+        "lowCloudsPercent": 11.7,
+        "mediumCloudsPercent": 4.7,
+        "highCloudsPercent": 75,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 121.5319,
+      "latitude": 25.0478,
+      "altitude": 10,
+      "city": "Taipei"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=25.04776&lon=121.53185&msl=10",
+        "geohash3": "uxc",
+        "geohash5": "uxczc",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 20.3,
+        "dewpointTemperatureC": 18.7,
+        "symbol": "DrizzleSun",
+        "humidityPercent": 89.2,
+        "pressureHpa": 1018.5,
+        "windDirectionDeg": 85,
+        "windSpeedMps": 4.1,
+        "cloudinessPercent": 54.7,
+        "lowCloudsPercent": 30.5,
+        "mediumCloudsPercent": 35.2,
+        "highCloudsPercent": 13.3,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 15.3136,
+      "latitude": -4.3276,
+      "altitude": 281,
+      "city": "Kinshasa"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=-4.32758&lon=15.31357&msl=281",
+        "geohash3": "efs",
+        "geohash5": "efszj",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 24.7,
+        "dewpointTemperatureC": 22.8,
+        "symbol": "LightRain",
+        "humidityPercent": 87.4,
+        "pressureHpa": 1012.1,
+        "windDirectionDeg": 314.6,
+        "windSpeedMps": 1.8,
+        "cloudinessPercent": 99.2,
+        "lowCloudsPercent": 31.2,
+        "mediumCloudsPercent": 43.8,
+        "highCloudsPercent": 98.4,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": -77.0282,
+      "latitude": -12.0432,
+      "altitude": 152,
+      "city": "Lima"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=-12.04318&lon=-77.02824&msl=152",
+        "geohash3": "5dr",
+        "geohash5": "5dr3v",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 20.4,
+        "dewpointTemperatureC": 15.2,
+        "symbol": "Cloud",
+        "humidityPercent": 71.6,
+        "pressureHpa": 1015.5,
+        "windDirectionDeg": 202.8,
+        "windSpeedMps": 4.7,
+        "cloudinessPercent": 99.2,
+        "lowCloudsPercent": 68.8,
+        "mediumCloudsPercent": 0,
+        "highCloudsPercent": 97.7,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 31.2497,
+      "latitude": 30.0626,
+      "altitude": 23,
+      "city": "Cairo"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=30.06263&lon=31.24967&msl=23",
+        "geohash3": "stt",
+        "geohash5": "stt3u",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 23.6,
+        "dewpointTemperatureC": 14.4,
+        "symbol": "Sun",
+        "humidityPercent": 56,
+        "pressureHpa": 1016.4,
+        "windDirectionDeg": 342.9,
+        "windSpeedMps": 2.7,
+        "cloudinessPercent": 6.2,
+        "lowCloudsPercent": 4.7,
+        "mediumCloudsPercent": 1.6,
+        "highCloudsPercent": 2.3,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": -74.0817,
+      "latitude": 4.6097,
+      "altitude": 2582,
+      "city": "Bogota"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=4.60971&lon=-74.08175&msl=2582",
+        "geohash3": "h4g",
+        "geohash5": "h4g68",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 15.1,
+        "dewpointTemperatureC": 9.4,
+        "symbol": "LightRain",
+        "humidityPercent": 68.2,
+        "pressureHpa": 1014.7,
+        "windDirectionDeg": 300.9,
+        "windSpeedMps": 1.5,
+        "cloudinessPercent": 99.2,
+        "lowCloudsPercent": 89.1,
+        "mediumCloudsPercent": 35.2,
+        "highCloudsPercent": 96.1,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": -0.0918,
+      "latitude": 51.5128,
+      "altitude": 27,
+      "city": "City of London"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=51.51279&lon=-0.09184&msl=27",
+        "geohash3": "mpu",
+        "geohash5": "mpuxk",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 20.7,
+        "dewpointTemperatureC": 11.7,
+        "symbol": "PartlyCloud",
+        "humidityPercent": 56.1,
+        "pressureHpa": 1011.2,
+        "windDirectionDeg": 198.6,
+        "windSpeedMps": 9.5,
+        "cloudinessPercent": 77.3,
+        "lowCloudsPercent": 75.8,
+        "mediumCloudsPercent": 25.8,
+        "highCloudsPercent": 3.1,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": -0.1257,
+      "latitude": 51.5085,
+      "altitude": 25,
+      "city": "London"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=51.50853&lon=-0.12574&msl=25",
+        "geohash3": "mpu",
+        "geohash5": "mpuxk",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 20.6,
+        "dewpointTemperatureC": 11.7,
+        "symbol": "PartlyCloud",
+        "humidityPercent": 56.2,
+        "pressureHpa": 1011.2,
+        "windDirectionDeg": 198.6,
+        "windSpeedMps": 9.5,
+        "cloudinessPercent": 77.3,
+        "lowCloudsPercent": 75.8,
+        "mediumCloudsPercent": 25.8,
+        "highCloudsPercent": 3.1,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 106.5528,
+      "latitude": 29.5628,
+      "altitude": 225,
+      "city": "Chongqing"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=29.56278&lon=106.55278&msl=225",
+        "geohash3": "uxv",
+        "geohash5": "uxvpb",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 16.4,
+        "dewpointTemperatureC": 13.5,
+        "symbol": "Drizzle",
+        "humidityPercent": 81.9,
+        "pressureHpa": 1018.1,
+        "windDirectionDeg": 77.4,
+        "windSpeedMps": 2.8,
+        "cloudinessPercent": 100,
+        "lowCloudsPercent": 2.3,
+        "mediumCloudsPercent": 100,
+        "highCloudsPercent": 85.2,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 104.0667,
+      "latitude": 30.6667,
+      "altitude": 499,
+      "city": "Chengdu"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=30.66667&lon=104.06667&msl=499",
+        "geohash3": "uxv",
+        "geohash5": "uxvzc",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 15.2,
+        "dewpointTemperatureC": 15,
+        "symbol": "Cloud",
+        "humidityPercent": 97.7,
+        "pressureHpa": 1018.1,
+        "windDirectionDeg": 38.4,
+        "windSpeedMps": 2,
+        "cloudinessPercent": 100,
+        "lowCloudsPercent": 99.2,
+        "mediumCloudsPercent": 98.4,
+        "highCloudsPercent": 91.4,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 118.7778,
+      "latitude": 32.0617,
+      "altitude": 22,
+      "city": "Nanjing"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=32.06167&lon=118.77778&msl=22",
+        "geohash3": "uxy",
+        "geohash5": "uxyzc",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 11.8,
+        "dewpointTemperatureC": 7.5,
+        "symbol": "LightCloud",
+        "humidityPercent": 75.1,
+        "pressureHpa": 1024.9,
+        "windDirectionDeg": 84.6,
+        "windSpeedMps": 2.3,
+        "cloudinessPercent": 21.9,
+        "lowCloudsPercent": 21.1,
+        "mediumCloudsPercent": 11.7,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 51.4215,
+      "latitude": 35.6944,
+      "altitude": 1178,
+      "city": "Tehran"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=35.69439&lon=51.42151&msl=1178",
+        "geohash3": "uc1",
+        "geohash5": "uc1ks",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 20,
+        "dewpointTemperatureC": 6,
+        "symbol": "Cloud",
+        "humidityPercent": 40.1,
+        "pressureHpa": 1019.5,
+        "windDirectionDeg": 51.4,
+        "windSpeedMps": 2.6,
+        "cloudinessPercent": 94.5,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 45.3,
+        "highCloudsPercent": 91.4,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 106.0847,
+      "latitude": 30.7951,
+      "altitude": 287,
+      "city": "Nanchong"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=30.79508&lon=106.08473&msl=287",
+        "geohash3": "uxv",
+        "geohash5": "uxvzu",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 16.1,
+        "dewpointTemperatureC": 14.5,
+        "symbol": "LightRain",
+        "humidityPercent": 89.1,
+        "pressureHpa": 1018.4,
+        "windDirectionDeg": 203.7,
+        "windSpeedMps": 1,
+        "cloudinessPercent": 100,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 100,
+        "highCloudsPercent": 98.4,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 114.1577,
+      "latitude": 22.2855,
+      "altitude": 3,
+      "city": "Hong Kong"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=22.28552&lon=114.15769&msl=3",
+        "geohash3": "urz",
+        "geohash5": "urzzg",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 23.4,
+        "dewpointTemperatureC": 19.9,
+        "symbol": "PartlyCloud",
+        "humidityPercent": 79.1,
+        "pressureHpa": 1017.2,
+        "windDirectionDeg": 66.1,
+        "windSpeedMps": 7.8,
+        "cloudinessPercent": 75.8,
+        "lowCloudsPercent": 5.5,
+        "mediumCloudsPercent": 39.1,
+        "highCloudsPercent": 61.7,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 108.9286,
+      "latitude": 34.2583,
+      "altitude": 416,
+      "city": "Xi'an"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=34.25833&lon=108.92861&msl=416",
+        "geohash3": "uzb",
+        "geohash5": "uzbrg",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 16.2,
+        "dewpointTemperatureC": 4.1,
+        "symbol": "Cloud",
+        "humidityPercent": 44.7,
+        "pressureHpa": 1018.3,
+        "windDirectionDeg": 61.5,
+        "windSpeedMps": 2.1,
+        "cloudinessPercent": 98.4,
+        "lowCloudsPercent": 4.7,
+        "mediumCloudsPercent": 96.9,
+        "highCloudsPercent": 42.2,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 74.3436,
+      "latitude": 31.5497,
+      "altitude": 224,
+      "city": "Lahore"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=31.54972&lon=74.34361&msl=224",
+        "geohash3": "utn",
+        "geohash5": "utnqv",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 20.3,
+        "dewpointTemperatureC": 14.6,
+        "symbol": "Sun",
+        "humidityPercent": 69.1,
+        "pressureHpa": 1012.2,
+        "windDirectionDeg": 247.8,
+        "windSpeedMps": 2.2,
+        "cloudinessPercent": 0,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 0,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 123.4328,
+      "latitude": 41.7922,
+      "altitude": 53,
+      "city": "Shenyang"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=41.79222&lon=123.43278&msl=53",
+        "geohash3": "uzv",
+        "geohash5": "uzvxz",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 6.5,
+        "dewpointTemperatureC": 3.2,
+        "symbol": "Sun",
+        "humidityPercent": 79.8,
+        "pressureHpa": 1025.5,
+        "windDirectionDeg": 176.6,
+        "windSpeedMps": 3.2,
+        "cloudinessPercent": 0,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 0,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 120.1614,
+      "latitude": 30.2937,
+      "altitude": 12,
+      "city": "Hangzhou"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=30.29365&lon=120.16142&msl=12",
+        "geohash3": "uxv",
+        "geohash5": "uxvxc",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 11.9,
+        "dewpointTemperatureC": 8.9,
+        "symbol": "Sun",
+        "humidityPercent": 81.8,
+        "pressureHpa": 1024.2,
+        "windDirectionDeg": 339.6,
+        "windSpeedMps": 1.5,
+        "cloudinessPercent": 10.9,
+        "lowCloudsPercent": 10.2,
+        "mediumCloudsPercent": 0.8,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": -43.2075,
+      "latitude": -22.9028,
+      "altitude": 5,
+      "city": "Rio de Janeiro"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=-22.90278&lon=-43.2075&msl=5",
+        "geohash3": "72r",
+        "geohash5": "72rdn",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 24.9,
+        "dewpointTemperatureC": 22.3,
+        "symbol": "LightCloud",
+        "humidityPercent": 84.3,
+        "pressureHpa": 1014.3,
+        "windDirectionDeg": 152.2,
+        "windSpeedMps": 2.9,
+        "cloudinessPercent": 16.4,
+        "lowCloudsPercent": 14.1,
+        "mediumCloudsPercent": 10.9,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 126.65,
+      "latitude": 45.75,
+      "altitude": 140,
+      "city": "Harbin"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=45.75&lon=126.65&msl=140",
+        "geohash3": "vpb",
+        "geohash5": "vpbxc",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 6.8,
+        "dewpointTemperatureC": 0.9,
+        "symbol": "Sun",
+        "humidityPercent": 66.7,
+        "pressureHpa": 1022.4,
+        "windDirectionDeg": 200.8,
+        "windSpeedMps": 5,
+        "cloudinessPercent": 0,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 0,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 44.4009,
+      "latitude": 33.3406,
+      "altitude": 41,
+      "city": "Baghdad"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=33.34058&lon=44.40088&msl=41",
+        "geohash3": "sxz",
+        "geohash5": "sxzsw",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 30.4,
+        "dewpointTemperatureC": 5.7,
+        "symbol": "Cloud",
+        "humidityPercent": 21.1,
+        "pressureHpa": 1010.8,
+        "windDirectionDeg": 96,
+        "windSpeedMps": 5.1,
+        "cloudinessPercent": 93.8,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 41.4,
+        "highCloudsPercent": 93.8,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 117.12,
+      "latitude": 36.1853,
+      "altitude": 143,
+      "city": "Tai'an"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=36.18528&lon=117.12&msl=143",
+        "geohash3": "uzc",
+        "geohash5": "uzcxz",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 11.2,
+        "dewpointTemperatureC": 4.5,
+        "symbol": "Sun",
+        "humidityPercent": 63.8,
+        "pressureHpa": 1026.1,
+        "windDirectionDeg": 71.7,
+        "windSpeedMps": 1.1,
+        "cloudinessPercent": 0,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 0,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 120.5954,
+      "latitude": 31.3041,
+      "altitude": 10,
+      "city": "Suzhou"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=31.30408&lon=120.59538&msl=10",
+        "geohash3": "uxy",
+        "geohash5": "uxyrb",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 11.8,
+        "dewpointTemperatureC": 8.7,
+        "symbol": "Sun",
+        "humidityPercent": 81.5,
+        "pressureHpa": 1024.7,
+        "windDirectionDeg": 49.4,
+        "windSpeedMps": 2.4,
+        "cloudinessPercent": 0.8,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 0.8,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 116.7148,
+      "latitude": 23.3681,
+      "altitude": 17,
+      "city": "Shantou"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=23.36814&lon=116.71479&msl=17",
+        "geohash3": "uxb",
+        "geohash5": "uxbxg",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 20.2,
+        "dewpointTemperatureC": 14.3,
+        "symbol": "Sun",
+        "humidityPercent": 67.9,
+        "pressureHpa": 1018.1,
+        "windDirectionDeg": 27.2,
+        "windSpeedMps": 3.8,
+        "cloudinessPercent": 2.3,
+        "lowCloudsPercent": 0.8,
+        "mediumCloudsPercent": 2.3,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 100.5014,
+      "latitude": 13.754,
+      "altitude": 12,
+      "city": "Bangkok"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=13.75398&lon=100.50144&msl=12",
+        "geohash3": "urc",
+        "geohash5": "urczb",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 25.3,
+        "dewpointTemperatureC": 24.6,
+        "symbol": "DrizzleSun",
+        "humidityPercent": 94.2,
+        "pressureHpa": 1013,
+        "windDirectionDeg": 0.2,
+        "windSpeedMps": 1.2,
+        "cloudinessPercent": 73.4,
+        "lowCloudsPercent": 59.4,
+        "mediumCloudsPercent": 42.2,
+        "highCloudsPercent": 41.4,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 77.5937,
+      "latitude": 12.9719,
+      "altitude": 914,
+      "city": "Bangalore"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=12.97194&lon=77.59369&msl=914",
+        "geohash3": "umc",
+        "geohash5": "umc1r",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 20.9,
+        "dewpointTemperatureC": 15.6,
+        "symbol": "Sun",
+        "humidityPercent": 71.1,
+        "pressureHpa": 1011.6,
+        "windDirectionDeg": 214.7,
+        "windSpeedMps": 2.6,
+        "cloudinessPercent": 8.6,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 8.6,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 30.3141,
+      "latitude": 59.9386,
+      "altitude": 13,
+      "city": "Saint Petersburg"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=59.93863&lon=30.31413&msl=13",
+        "geohash3": "tm6",
+        "geohash5": "tm6s7",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 9.1,
+        "dewpointTemperatureC": 8.3,
+        "symbol": "Sun",
+        "humidityPercent": 95,
+        "pressureHpa": 1027.5,
+        "windDirectionDeg": 232.3,
+        "windSpeedMps": 2.6,
+        "cloudinessPercent": 7.8,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 0,
+        "highCloudsPercent": 7.8,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": -70.6483,
+      "latitude": -33.4569,
+      "altitude": 556,
+      "city": "Santiago"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=-33.45694&lon=-70.64827&msl=556",
+        "geohash3": "572",
+        "geohash5": "572nn",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 17.7,
+        "dewpointTemperatureC": 7.5,
+        "symbol": "LightCloud",
+        "humidityPercent": 51.1,
+        "pressureHpa": 1019.7,
+        "windDirectionDeg": 227.7,
+        "windSpeedMps": 1.7,
+        "cloudinessPercent": 19.5,
+        "lowCloudsPercent": 3.9,
+        "mediumCloudsPercent": 18.8,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 88.363,
+      "latitude": 22.5626,
+      "altitude": 11,
+      "city": "Kolkata"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=22.56263&lon=88.36304&msl=11",
+        "geohash3": "ux8",
+        "geohash5": "ux8n9",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 24.3,
+        "dewpointTemperatureC": 24,
+        "symbol": "Rain",
+        "humidityPercent": 95.8,
+        "pressureHpa": 1008.8,
+        "windDirectionDeg": 110,
+        "windSpeedMps": 4.4,
+        "cloudinessPercent": 100,
+        "lowCloudsPercent": 2.3,
+        "mediumCloudsPercent": 97.7,
+        "highCloudsPercent": 100,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 151.2073,
+      "latitude": -33.8679,
+      "altitude": 58,
+      "city": "Sydney"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=-33.86785&lon=151.20732&msl=58",
+        "geohash3": "gpz",
+        "geohash5": "gpzzv",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 13.6,
+        "dewpointTemperatureC": 9.5,
+        "symbol": "Cloud",
+        "humidityPercent": 76,
+        "pressureHpa": 1024.7,
+        "windDirectionDeg": 61.8,
+        "windSpeedMps": 2.7,
+        "cloudinessPercent": 98.4,
+        "lowCloudsPercent": 6.2,
+        "mediumCloudsPercent": 66.4,
+        "highCloudsPercent": 96.1,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 96.1561,
+      "latitude": 16.8053,
+      "altitude": 30,
+      "city": "Yangon"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=16.80528&lon=96.15611&msl=30",
+        "geohash3": "urg",
+        "geohash5": "urgzy",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 24.7,
+        "dewpointTemperatureC": 24.7,
+        "symbol": "Cloud",
+        "humidityPercent": 100.2,
+        "pressureHpa": 1012.8,
+        "windDirectionDeg": 64.8,
+        "windSpeedMps": 1.2,
+        "cloudinessPercent": 93.8,
+        "lowCloudsPercent": 82,
+        "mediumCloudsPercent": 0.8,
+        "highCloudsPercent": 68,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 116.9972,
+      "latitude": 36.6683,
+      "altitude": 32,
+      "city": "Jinan"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=36.66833&lon=116.99722&msl=32",
+        "geohash3": "uzf",
+        "geohash5": "uzfpf",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 13.5,
+        "dewpointTemperatureC": 2.3,
+        "symbol": "Sun",
+        "humidityPercent": 47,
+        "pressureHpa": 1024.9,
+        "windDirectionDeg": 178.9,
+        "windSpeedMps": 4.5,
+        "cloudinessPercent": 7.8,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 7.8,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 80.2785,
+      "latitude": 13.0878,
+      "altitude": 14,
+      "city": "Chennai"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=13.08784&lon=80.27847&msl=14",
+        "geohash3": "uq3",
+        "geohash5": "uq329",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 28.3,
+        "dewpointTemperatureC": 26.1,
+        "symbol": "LightCloud",
+        "humidityPercent": 85.9,
+        "pressureHpa": 1008.9,
+        "windDirectionDeg": 199.9,
+        "windSpeedMps": 3.8,
+        "cloudinessPercent": 19.5,
+        "lowCloudsPercent": 2.3,
+        "mediumCloudsPercent": 14.1,
+        "highCloudsPercent": 8.6,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 113.6486,
+      "latitude": 34.7578,
+      "altitude": 104,
+      "city": "Zhengzhou"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=34.75778&lon=113.64861&msl=104",
+        "geohash3": "uzb",
+        "geohash5": "uzbxy",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 13.1,
+        "dewpointTemperatureC": 2.1,
+        "symbol": "Sun",
+        "humidityPercent": 47.5,
+        "pressureHpa": 1023.7,
+        "windDirectionDeg": 181.3,
+        "windSpeedMps": 3.9,
+        "cloudinessPercent": 1.6,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 1.6,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 144.9633,
+      "latitude": -37.814,
+      "altitude": 25,
+      "city": "Melbourne"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=-37.814&lon=144.96332&msl=25",
+        "geohash3": "gpv",
+        "geohash5": "gpvpg",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 11.1,
+        "dewpointTemperatureC": 6.9,
+        "symbol": "Sun",
+        "humidityPercent": 75.4,
+        "pressureHpa": 1023,
+        "windDirectionDeg": 20.8,
+        "windSpeedMps": 3.2,
+        "cloudinessPercent": 0,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 0,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 46.7219,
+      "latitude": 24.6877,
+      "altitude": 612,
+      "city": "Riyadh"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=24.68773&lon=46.72185&msl=612",
+        "geohash3": "u83",
+        "geohash5": "u839c",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 28.3,
+        "dewpointTemperatureC": 4.1,
+        "symbol": "Sun",
+        "humidityPercent": 21.4,
+        "pressureHpa": 1012.9,
+        "windDirectionDeg": 114.4,
+        "windSpeedMps": 2.9,
+        "cloudinessPercent": 0.8,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 0.8,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 125.3228,
+      "latitude": 43.88,
+      "altitude": 206,
+      "city": "Changchun"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=43.88&lon=125.32278&msl=206",
+        "geohash3": "uzz",
+        "geohash5": "uzzpy",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 5.9,
+        "dewpointTemperatureC": 1.2,
+        "symbol": "Sun",
+        "humidityPercent": 72.8,
+        "pressureHpa": 1024.8,
+        "windDirectionDeg": 196.1,
+        "windSpeedMps": 3.5,
+        "cloudinessPercent": 0,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 0,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 121.6022,
+      "latitude": 38.9122,
+      "altitude": 33,
+      "city": "Dalian"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=38.91222&lon=121.60222&msl=33",
+        "geohash3": "uzg",
+        "geohash5": "uzgxv",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 11.1,
+        "dewpointTemperatureC": 7.4,
+        "symbol": "LightCloud",
+        "humidityPercent": 77.7,
+        "pressureHpa": 1026.3,
+        "windDirectionDeg": 212,
+        "windSpeedMps": 2.7,
+        "cloudinessPercent": 31.2,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 0,
+        "highCloudsPercent": 31.2,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 91.8317,
+      "latitude": 22.3384,
+      "altitude": 15,
+      "city": "Chittagong"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=22.3384&lon=91.83168&msl=15",
+        "geohash3": "urz",
+        "geohash5": "urzzu",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 23.8,
+        "dewpointTemperatureC": 23.1,
+        "symbol": "Rain",
+        "humidityPercent": 94,
+        "pressureHpa": 1012.1,
+        "windDirectionDeg": 157.2,
+        "windSpeedMps": 2.8,
+        "cloudinessPercent": 100,
+        "lowCloudsPercent": 99.2,
+        "mediumCloudsPercent": 25.8,
+        "highCloudsPercent": 100,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 102.7183,
+      "latitude": 25.0389,
+      "altitude": 1895,
+      "city": "Kunming"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=25.03889&lon=102.71833&msl=1895",
+        "geohash3": "uxc",
+        "geohash5": "uxczc",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 13.6,
+        "dewpointTemperatureC": 13.6,
+        "symbol": "LightRain",
+        "humidityPercent": 100.1,
+        "pressureHpa": 1016.5,
+        "windDirectionDeg": 190.1,
+        "windSpeedMps": 3.7,
+        "cloudinessPercent": 100,
+        "lowCloudsPercent": 46.9,
+        "mediumCloudsPercent": 93.8,
+        "highCloudsPercent": 100,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 29.9553,
+      "latitude": 31.2156,
+      "altitude": -1,
+      "city": "Alexandria"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=31.21564&lon=29.95527&msl=-1",
+        "geohash3": "stq",
+        "geohash5": "stq4q",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 23,
+        "dewpointTemperatureC": 16.4,
+        "symbol": "LightCloud",
+        "humidityPercent": 65.3,
+        "pressureHpa": 1016.9,
+        "windDirectionDeg": 330.9,
+        "windSpeedMps": 4,
+        "cloudinessPercent": 13.3,
+        "lowCloudsPercent": 13.3,
+        "mediumCloudsPercent": 0,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": -118.2437,
+      "latitude": 34.0522,
+      "altitude": 88,
+      "city": "Los Angeles"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=34.05223&lon=-118.24368&msl=88",
+        "geohash3": "hb0",
+        "geohash5": "hb00n",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 26.5,
+        "dewpointTemperatureC": 9.6,
+        "symbol": "Sun",
+        "humidityPercent": 34.5,
+        "pressureHpa": 1008.3,
+        "windDirectionDeg": 251,
+        "windSpeedMps": 2.3,
+        "cloudinessPercent": 0,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 0,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 72.5873,
+      "latitude": 23.0258,
+      "altitude": 56,
+      "city": "Ahmedabad"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=23.02579&lon=72.58727&msl=56",
+        "geohash3": "usb",
+        "geohash5": "usbkg",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 25.7,
+        "dewpointTemperatureC": 18.7,
+        "symbol": "Sun",
+        "humidityPercent": 64.4,
+        "pressureHpa": 1009.7,
+        "windDirectionDeg": 83.3,
+        "windSpeedMps": 1.7,
+        "cloudinessPercent": 5.5,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 0.8,
+        "highCloudsPercent": 5.5,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 120.3694,
+      "latitude": 36.0661,
+      "altitude": 46,
+      "city": "Qingdao"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=36.06605&lon=120.36939&msl=46",
+        "geohash3": "uzc",
+        "geohash5": "uzcxu",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 14,
+        "dewpointTemperatureC": 6.3,
+        "symbol": "Sun",
+        "humidityPercent": 60.1,
+        "pressureHpa": 1026.3,
+        "windDirectionDeg": 89,
+        "windSpeedMps": 2.5,
+        "cloudinessPercent": 0,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 0,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 129.0403,
+      "latitude": 35.1028,
+      "altitude": 2,
+      "city": "Busan"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=35.10278&lon=129.04028&msl=2",
+        "geohash3": "uzb",
+        "geohash5": "uzbzy",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 12,
+        "dewpointTemperatureC": 5.9,
+        "symbol": "Sun",
+        "humidityPercent": 66.7,
+        "pressureHpa": 1024.7,
+        "windDirectionDeg": 342.1,
+        "windSpeedMps": 3.5,
+        "cloudinessPercent": 3.9,
+        "lowCloudsPercent": 1.6,
+        "mediumCloudsPercent": 3.9,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": -4.0127,
+      "latitude": 5.3097,
+      "altitude": 10,
+      "city": "Abidjan"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=5.30966&lon=-4.01266&msl=10",
+        "geohash3": "kp7",
+        "geohash5": "kp7c0",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 25.7,
+        "dewpointTemperatureC": 24,
+        "symbol": "Cloud",
+        "humidityPercent": 88.7,
+        "pressureHpa": 1012.4,
+        "windDirectionDeg": 211.3,
+        "windSpeedMps": 2.9,
+        "cloudinessPercent": 99.2,
+        "lowCloudsPercent": 22.7,
+        "mediumCloudsPercent": 59.4,
+        "highCloudsPercent": 99.2,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 8.5167,
+      "latitude": 12.0001,
+      "altitude": 484,
+      "city": "Kano"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=12.00012&lon=8.51672&msl=484",
+        "geohash3": "s38",
+        "geohash5": "s3883",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 28.5,
+        "dewpointTemperatureC": 13.7,
+        "symbol": "PartlyCloud",
+        "humidityPercent": 40,
+        "pressureHpa": 1009.7,
+        "windDirectionDeg": 69.5,
+        "windSpeedMps": 2.6,
+        "cloudinessPercent": 93.8,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 4.7,
+        "highCloudsPercent": 93,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 113.1315,
+      "latitude": 23.0268,
+      "altitude": 5,
+      "city": "Foshan"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=23.02677&lon=113.13148&msl=5",
+        "geohash3": "uxb",
+        "geohash5": "uxbrg",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 20.5,
+        "dewpointTemperatureC": 18.8,
+        "symbol": "PartlyCloud",
+        "humidityPercent": 89.1,
+        "pressureHpa": 1017.6,
+        "windDirectionDeg": 45.3,
+        "windSpeedMps": 1.3,
+        "cloudinessPercent": 70.3,
+        "lowCloudsPercent": 19.5,
+        "mediumCloudsPercent": 3.1,
+        "highCloudsPercent": 63.3,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 78.4564,
+      "latitude": 17.3841,
+      "altitude": 515,
+      "city": "Hyderabad"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=17.38405&lon=78.45636&msl=515",
+        "geohash3": "umu",
+        "geohash5": "umuq7",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 22.9,
+        "dewpointTemperatureC": 19.5,
+        "symbol": "Sun",
+        "humidityPercent": 79.8,
+        "pressureHpa": 1010.5,
+        "windDirectionDeg": 7,
+        "windSpeedMps": 1.7,
+        "cloudinessPercent": 10.9,
+        "lowCloudsPercent": 1.6,
+        "mediumCloudsPercent": 10.9,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 119.8887,
+      "latitude": 29.4568,
+      "altitude": 76,
+      "city": "Puyang"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=29.45679&lon=119.88872&msl=76",
+        "geohash3": "uxu",
+        "geohash5": "uxuzy",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 12.7,
+        "dewpointTemperatureC": 9.9,
+        "symbol": "Sun",
+        "humidityPercent": 82.8,
+        "pressureHpa": 1023.8,
+        "windDirectionDeg": 7.9,
+        "windSpeedMps": 1.4,
+        "cloudinessPercent": 8.6,
+        "lowCloudsPercent": 8.6,
+        "mediumCloudsPercent": 1.6,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 139.6425,
+      "latitude": 35.4478,
+      "altitude": 10,
+      "city": "Yokohama"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=35.44778&lon=139.6425&msl=10",
+        "geohash3": "uzc",
+        "geohash5": "uzcpy",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 16.9,
+        "dewpointTemperatureC": 11.3,
+        "symbol": "Cloud",
+        "humidityPercent": 69.6,
+        "pressureHpa": 1023,
+        "windDirectionDeg": 36.4,
+        "windSpeedMps": 5.1,
+        "cloudinessPercent": 100,
+        "lowCloudsPercent": 92.2,
+        "mediumCloudsPercent": 100,
+        "highCloudsPercent": 98.4,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 3.9059,
+      "latitude": 7.3776,
+      "altitude": 181,
+      "city": "Ibadan"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=7.37756&lon=3.90591&msl=181",
+        "geohash3": "s0t",
+        "geohash5": "s0tnp",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 23.1,
+        "dewpointTemperatureC": 23.1,
+        "symbol": "Cloud",
+        "humidityPercent": 98.6,
+        "pressureHpa": 1013.5,
+        "windDirectionDeg": 194.9,
+        "windSpeedMps": 1.4,
+        "cloudinessPercent": 100,
+        "lowCloudsPercent": 26.6,
+        "mediumCloudsPercent": 7.8,
+        "highCloudsPercent": 100,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 103.8501,
+      "latitude": 1.2897,
+      "altitude": 23,
+      "city": "Singapore"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=1.28967&lon=103.85007&msl=23",
+        "geohash3": "upb",
+        "geohash5": "upbzv",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 26.1,
+        "dewpointTemperatureC": 24.3,
+        "symbol": "LightRain",
+        "humidityPercent": 88,
+        "pressureHpa": 1011.3,
+        "windDirectionDeg": 280.2,
+        "windSpeedMps": 4.9,
+        "cloudinessPercent": 100,
+        "lowCloudsPercent": 14.1,
+        "mediumCloudsPercent": 100,
+        "highCloudsPercent": 100,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 120.2886,
+      "latitude": 31.5689,
+      "altitude": 10,
+      "city": "Wuxi"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=31.56887&lon=120.28857&msl=10",
+        "geohash3": "uxy",
+        "geohash5": "uxyry",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 12.5,
+        "dewpointTemperatureC": 8.7,
+        "symbol": "Sun",
+        "humidityPercent": 77.5,
+        "pressureHpa": 1024.9,
+        "windDirectionDeg": 54.4,
+        "windSpeedMps": 2,
+        "cloudinessPercent": 8.6,
+        "lowCloudsPercent": 0.8,
+        "mediumCloudsPercent": 8.6,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 118.0819,
+      "latitude": 24.4798,
+      "altitude": 12,
+      "city": "Xiamen"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=24.47979&lon=118.08187&msl=12",
+        "geohash3": "uxc",
+        "geohash5": "uxcrv",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 20,
+        "dewpointTemperatureC": 13.3,
+        "symbol": "Sun",
+        "humidityPercent": 65.2,
+        "pressureHpa": 1018.8,
+        "windDirectionDeg": 17.5,
+        "windSpeedMps": 4.8,
+        "cloudinessPercent": 2.3,
+        "lowCloudsPercent": 2.3,
+        "mediumCloudsPercent": 0.8,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 32.8543,
+      "latitude": 39.9199,
+      "altitude": 874,
+      "city": "Ankara"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=39.91987&lon=32.85427&msl=874",
+        "geohash3": "svu",
+        "geohash5": "svu6u",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 16.4,
+        "dewpointTemperatureC": 8.6,
+        "symbol": "LightCloud",
+        "humidityPercent": 59.8,
+        "pressureHpa": 1019.1,
+        "windDirectionDeg": 69.6,
+        "windSpeedMps": 2.9,
+        "cloudinessPercent": 17.2,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 7,
+        "highCloudsPercent": 12.5,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 105.7424,
+      "latitude": 34.5795,
+      "altitude": 1153,
+      "city": "Tianshui"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=34.57952&lon=105.74238&msl=1153",
+        "geohash3": "uzb",
+        "geohash5": "uzbxf",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 11.5,
+        "dewpointTemperatureC": 10.1,
+        "symbol": "Cloud",
+        "humidityPercent": 90.5,
+        "pressureHpa": 1018.2,
+        "windDirectionDeg": 102,
+        "windSpeedMps": 1.8,
+        "cloudinessPercent": 99.2,
+        "lowCloudsPercent": 89.8,
+        "mediumCloudsPercent": 89.8,
+        "highCloudsPercent": 96.9,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 121.5495,
+      "latitude": 29.8782,
+      "altitude": 15,
+      "city": "Ningbo"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=29.87819&lon=121.54945&msl=15",
+        "geohash3": "uxv",
+        "geohash5": "uxvpz",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 13.9,
+        "dewpointTemperatureC": 10.4,
+        "symbol": "Sun",
+        "humidityPercent": 78.8,
+        "pressureHpa": 1023.5,
+        "windDirectionDeg": 288.5,
+        "windSpeedMps": 1.1,
+        "cloudinessPercent": 3.9,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 3.9,
+        "highCloudsPercent": 0,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 106.6296,
+      "latitude": 10.823,
+      "altitude": 7,
+      "city": "Ho Chi Minh City"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=10.82302&lon=106.62965&msl=7",
+        "geohash3": "upz",
+        "geohash5": "upzxy",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 25.1,
+        "dewpointTemperatureC": 24.7,
+        "symbol": "LightRain",
+        "humidityPercent": 95.6,
+        "pressureHpa": 1011.4,
+        "windDirectionDeg": 341.7,
+        "windSpeedMps": 2.5,
+        "cloudinessPercent": 90.6,
+        "lowCloudsPercent": 66.4,
+        "mediumCloudsPercent": 34.4,
+        "highCloudsPercent": 75.8,
+        "fogPercent": 0
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 110.7781,
+      "latitude": 32.6475,
+      "altitude": 247,
+      "city": "Shiyan"
+    },
+    "weather": [
+      {
+        "sourceApi": "https://api.met.no/weatherapi/locationforecast/1.9/?lat=32.6475&lon=110.77806&msl=247",
+        "geohash3": "uxz",
+        "geohash5": "uxzpy",
+        "fromHour": "2018-10-12T19:00:00Z",
+        "temperatureC": 13.7,
+        "dewpointTemperatureC": 8.2,
+        "symbol": "Cloud",
+        "humidityPercent": 69.5,
+        "pressureHpa": 1021.5,
+        "windDirectionDeg": 31.2,
+        "windSpeedMps": 1,
+        "cloudinessPercent": 88.3,
+        "lowCloudsPercent": 0,
+        "mediumCloudsPercent": 87.5,
+        "highCloudsPercent": 2.3,
+        "fogPercent": 0
+      }
+    ]
+  }
+]
